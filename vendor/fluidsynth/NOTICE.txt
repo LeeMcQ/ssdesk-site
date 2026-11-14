@@ -1,0 +1,31 @@
+Sabbath Service Desk — FluidSynth hymn music engine (optional)
+==============================================================
+
+1. FluidSynth 2.6.2
+   Copyright (C) 2000-2026 Peter Hanappe and others.
+   Licence: GNU Lesser General Public License, version 2.1 or later
+   (LICENSE-FluidSynth-LGPL-2.1 in this folder).
+   This folder holds an unmodified FluidSynth 2.6.2 compiled to WebAssembly:
+     fluidsynth-2.6.2.mjs
+     SHA256 2b4b3242678c5b4d6f615ded08f114bb0a55cf54032ba9ab1dfda8ed2a4de882
+   Corresponding source:
+     - FluidSynth 2.6.2, official release https://github.com/FluidSynth/fluidsynth/releases/tag/v2.6.2
+       (tarball SHA256 ca376b42a3c1b186a4c8c248931789a455ac94a89b777394969d678010c2f91f)
+     - src/ssdesk_fluidsynth_api.c (the small C wrapper), src/pthread_setschedparam_stub.c and
+       src/build-emscripten.sh (the exact Emscripten build), in this folder and in the
+       repository https://github.com/LeeMcQ/SDA_Sabbath (vendor/fluidsynth/src/).
+   You may rebuild fluidsynth-2.6.2.mjs from that source and replace the file.
+   FluidSynth itself was not modified. Sabbath Service Desk's own code calls it only
+   through the wrapper above and stays under its own licence.
+
+2. Fluid R3 General MIDI SoundFont (data/music/FluidR3_GM.sf2.part1 + .part2)
+   Copyright 2000-2002, 2008 Frank Wen; 2008 Toby Smithe (Debian packaging).
+   Licence: MIT (data/music/FluidR3_GM-LICENSE.txt). Source: Debian fluid-soundfont-gm 3.1-5.3.
+   The file is stored in two parts because of a file-size limit; joined they are the original
+   FluidR3_GM.sf2, 148,398,306 bytes, SHA256
+   74594e8f4250680adf590507a306655a299935343583256f3b722c48a1bc1cb0
+
+3. GeneralUser GS 2.0.3 (data/music/GeneralUser-GS.sf2)
+   Copyright S. Christian Collins. Licence: the author's License v2.0
+   (data/music/GeneralUser-GS-LICENSE.txt). https://www.schristiancollins.com/generaluser
+   SHA256 9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe

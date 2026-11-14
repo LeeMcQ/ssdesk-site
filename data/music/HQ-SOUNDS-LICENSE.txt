@@ -1,0 +1,20 @@
+High-quality and Studio hymn sounds (data/music/hq.sf3, data/music/studio.sf3), built by tools/build_hq_soundfont.mjs
+(studio.sf3: STUDIO=1)
+
+Grand piano: Salamander Grand Piano V3 (Yamaha C5), recorded by Alexander Holm.
+  Licence: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+  https://creativecommons.org/licenses/by/3.0/
+  Source used: https://github.com/sfzinstruments/SalamanderGrandPiano (FLAC samples; hq.sf3: 5 of the 16 velocity
+  layers; studio.sf3: all 16; shortened and stored as Ogg Vorbis).
+
+Pipe organ: GrandOrgue demo sample set, recordings by Lars Palo, (c) 2006 Milan Digital Audio LLC and
+  2009-2015 GrandOrgue contributors.
+  Licence: Creative Commons Attribution-ShareAlike 2.5 (CC BY-SA 2.5, Swedish jurisdiction), or GPL-2+.
+  https://creativecommons.org/licenses/by-sa/2.5/se/
+  Source used: the GrandOrgue demo organ (github.com/GrandOrgue/grandorgue, packages/demo-*.orgue; also the
+  "grandorgue-demo" Debian/Ubuntu package). Montre 8' and Bourdon 8' ranks, studio.sf3 also Flute harmonique 8'
+  and Octavin 2'; retuned to
+  A = 440 Hz equal temperament, levels evened out, the release joined straight after the loop).
+
+Because they contain the organ samples, the sound packs hq.sf3 and studio.sf3 as a whole are shared under CC BY-SA 2.5.
+This applies only to that file, not to the SDA Sabbath app code (MIT).

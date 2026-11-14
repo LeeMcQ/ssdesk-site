@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en-ZA">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; base-uri 'self'; form-action 'none'; object-src 'none'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#161c28">
+<title>Privacy notice – Sabbath Service Desk</title>
+<meta name="description" content="What Sabbath Service Desk stores, what it sends, and your rights under POPIA.">
+<link rel="canonical" href="https://ssdesk.online/privacy.html">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<style>
+  :root { color-scheme: light dark; --bg:#fbfaf7; --fg:#1d2330; --muted:#5a6475; --line:#d9d6cc; --accent:#1f4068; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#161c28; --fg:#e9e4d8; --muted:#a3acbd; --line:#36435c; --accent:#f2cf7a; } }
+  body { margin:0; background:var(--bg); color:var(--fg); font:17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 46rem; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 1.9rem; line-height:1.2; margin: .4em 0 .2em; } h2 { font-size: 1.25rem; margin: 1.8em 0 .4em; padding-top:.6em; border-top:1px solid var(--line); }
+  a { color: var(--accent); } .muted { color: var(--muted); } nav a { display: inline-block; padding: .6rem 0; margin-right: 1rem; } code, main a { overflow-wrap: anywhere; }
+  table { border-collapse: collapse; width:100%; font-size:.95rem; } th, td { text-align:left; vertical-align: top; padding:.5em .6em; border-bottom:1px solid var(--line); overflow-wrap: anywhere; }
+  @media (max-width: 480px) { table { font-size: .85rem; } th, td { padding: .45em .35em; } }
+  th { color: var(--muted); font-weight:600; }
+</style>
+</head>
+<body>
+<main>
+<nav aria-label="Pages"><a href="./">← Open Sabbath Service Desk</a> <a href="privacy.html">Privacy</a> <a href="terms.html">Terms</a> <a href="delete-account.html">Delete your account</a></nav>
+
+<h1>Privacy notice</h1>
+<p class="muted">Last updated 3 November 2026. This notice follows South Africa’s Protection of Personal Information Act (POPIA).</p>
+
+<h2>In short</h2>
+<p>Sabbath Service Desk runs in your browser. It has no adverts and no tracking cookies, and its maker does not receive your plans, settings, pictures or what you show on screen. Signing in is optional. Once you sign in, usage statistics are sent (they can be switched off at any time, see below). Almost everything stays on the device you use. A few features send a request to another company, only when you press the button for them. They are listed below.</p>
+
+<h2>Who is responsible</h2>
+<p>Sabbath Service Desk is free software made by Lee McQuire; its code is released under the MIT licence. The source is at <a href="https://github.com/LeeMcQ/SDA_Sabbath">github.com/LeeMcQ/SDA_Sabbath</a>. For the optional Sabbath Service Desk cloud (accounts, usage statistics, stories and messages), Lee McQuire is the <b>responsible party</b> under POPIA.</p>
+<ul>
+<li>Responsible party: Lee McQuire, [postal or physical address to be added], South Africa</li>
+<li>Information Officer: [Information Officer: name to be added], [email address to be added], [phone number to be added]. Registered with the Information Regulator: [registration number to be added]</li>
+</ul>
+<p>Questions about this notice, or requests about your personal information, go to the Information Officer. General questions can also be raised on GitHub under “Issues” (public). The church or person who installs and runs Sabbath Service Desk is responsible for any personal information they type into it (for example names in a service plan or on a banner).</p>
+
+<h2>What stays on your device</h2>
+<p>Your settings, service plans, banners and pictures, imported Bibles and hymnbooks, hymn and video lists, the church details you enter (name, town, service time, giving link) and, if you choose to keep it, your AI key are stored in this browser’s own storage (IndexedDB and localStorage). They are not uploaded. You can erase everything by clearing this site’s data in your browser, or with “Download a fresh copy” and “Reset” in Settings. Backups you export are files you keep yourself; they never include your AI key.</p>
+
+<h2>What is sent, and to whom</h2>
+<table>
+<tr><th>Feature</th><th>What is sent</th><th>To</th></tr>
+<tr><td>Opening the app</td><td>A normal web request (your IP address and browser details), as for any website. After the first visit the app works offline.</td><td>GitHub Pages (GitHub, USA), which hosts the app</td></tr>
+<tr><td>AI buttons in Banners &amp; Music and Settings</td><td>What you typed (a topic, a picture description, or Bible text you asked to summarise), plus your API key to the provider you chose</td><td>OpenAI, Google, xAI, Together AI, OpenRouter or Anthropic (companies in the USA), under their terms</td></tr>
+<tr><td>Lyrics search</td><td>The song title and artist you searched for</td><td>LRCLIB and Lyrics.ovh (outside South Africa)</td></tr>
+<tr><td>Adding Bibles from the internet</td><td>A request for the translation you pick</td><td>bible.helloao.org, getBible (api.getbible.net) and the Bible corpus on GitHub (raw.githubusercontent.com), USA</td></tr>
+<tr><td>YouTube videos in Web &amp; PC</td><td>The video address; YouTube may set cookies in the video frame</td><td>YouTube (Google, USA), using the privacy-enhanced youtube-nocookie.com address</td></tr>
+<tr><td>Stage screen for phones and laptops</td><td>Slide text, timers and messages go directly from the church computer to each phone (WebRTC, encrypted with the room code). Public Nostr relays carry only the encrypted connection set-up. The people connected can see each other’s IP addresses, as in any peer-to-peer connection.</td><td>The phones that join, and the public relays you have not replaced with your own</td></tr>
+<tr><td>Web page or Google Slides link you add</td><td>A request for that address</td><td>That website (for Google Slides: Google, USA)</td></tr>
+<tr><td>Back up to Google Drive (only when you press it)</td><td>The backup file you chose to make: your settings, plans, hymnbooks, added Bibles and banners, and slides and videos if you ticked them. Sabbath Service Desk asks Google only for access to the files it creates itself (“drive.file”), not the rest of your Drive. The sign-in stays on this device for about an hour.</td><td>Your own Google Drive (Google, USA). Nothing goes to Sabbath Service Desk or its maintainer.</td></tr>
+<tr><td>Signing in (optional account)</td><td>Your email address, to send you a sign-in code; with “Continue with Google”, your Google account’s email and name</td><td>The Sabbath Service Desk cloud (Supabase, outside South Africa), and Google if you choose it</td></tr>
+<tr><td>Usage statistics (“Help improve Sabbath Service Desk”; only while signed in; switch off in Settings → Account or the first-start setup)</td><td>A random number for this device; each day: how many minutes the app was in use and presenting, and how many of those without internet; how often each kind of item (Bible, hymn, slides, video, banner, web page) went on screen; which hymns (book, number and title) and Bible passages (the reference, e.g. John 3:16) were shown; which features were used (for example the Plan views, hymn music, live translation, stage screens) and the most stage screens and phones connected at once; searches for a hymn number or Bible reference that found nothing; how many errors happened. With each report: the app version, operating system, browser, screen size and layout, how the projector is connected, the sound set-up chosen in the setup, whether everything is stored for use offline; the church name, town, conference and union from Settings → Church, and its location rounded to about 10 km; the language of your services; when the setup was finished and when something was first presented; and which account. It is recorded on the device also without internet and sent later. Never your slides, pictures, videos, sermons or anything you type.</td><td>The Sabbath Service Desk cloud (Supabase, outside South Africa)</td></tr>
+<tr><td>Your story (only if you send it: “Tell us your story”)</td><td>How you heard of Sabbath Service Desk, how it changed your services, whether it may be quoted with your church’s name, and the church name and town</td><td>The Sabbath Service Desk cloud (Supabase, outside South Africa)</td></tr>
+<tr><td>Comments and suggestions</td><td>Your message and, if you leave it ticked, technical details (app version, browser, screen size and layout). It opens as a new issue on GitHub that you submit yourself with your GitHub account. Anyone can read it.</td><td>GitHub (USA), publicly</td></tr>
+<tr><td>Sharing a praise chorus</td><td>The song’s title, writer and words, whether they may be shared, and the name you give under “Shared by”, as a new issue on GitHub that you submit yourself. Anyone can read it.</td><td>GitHub (USA), publicly</td></tr>
+</table>
+<p>Nothing else is sent. Sabbath Service Desk does not use advertising or tracking cookies, and does not share or sell any information.</p>
+
+<h2>The Sabbath Service Desk cloud</h2>
+<p>Accounts, usage statistics and messages are kept in a database run for Sabbath Service Desk by Supabase, outside South Africa. Only the maintainer can see the statistics and messages; a signed-in person can see their own messages and the replies. Statistics are used only to understand how many churches use Sabbath Service Desk, how much, and which parts, so it can be improved.</p>
+<p>Usage statistics are recorded only while you are signed in. You can switch them off at any time in the first-start setup or in Settings → Account, and nothing more is recorded or sent after that. A story you send is quoted only if you ticked that it may be. Settings → Account → Delete my account deletes your account, your messages and the statistics of the devices you signed in on. You can also ask the maintainer on GitHub to delete the statistics of a device.</p>
+
+<h2>POPIA details for the optional cloud</h2>
+<p>This section applies only if you sign in. Without an account, nothing below is collected.</p>
+<ul>
+<li><b>Operator.</b> Supabase Inc. stores and processes the cloud data for Sabbath Service Desk under a written data processing agreement (Supabase’s Data Processing Addendum), as POPIA section 21 requires. Its servers are outside South Africa: [Supabase region to be confirmed, for example EU (Ireland or Frankfurt)].</li>
+<li><b>Sending information outside South Africa (section 72).</b> The data goes to that region because there is no South African Supabase region. It is protected by Supabase’s data processing agreement and, in the EU, by the GDPR, which gives protection similar to POPIA. By signing in you agree to this transfer.</li>
+<li><b>What and why.</b> Your email address (and name, with Google sign-in) to run your account; usage statistics to understand how churches use Sabbath Service Desk and to improve it; stories and messages to answer you. They are not used for adverts, not sold and not shared, except with Supabase as operator.</li>
+<li><b>Consent.</b> Signing in is optional. Usage statistics are only recorded while you are signed in and can be switched off at any time in Settings → Account. You may withdraw consent at any time; this does not affect what was processed before.</li>
+<li><b>How long it is kept.</b> Accounts: until you delete them, or [retention period to be confirmed, for example 24 months] after the last sign-in. Usage statistics: [retention period to be confirmed, for example 24 months], then deleted or kept only as totals that identify no one. Stories and messages: until you delete your account or ask for them to be removed.</li>
+<li><b>Security and breaches.</b> Access is limited to the maintainer, the database checks every request (row-level security), and connections are encrypted. If personal information is lost or accessed without permission, the Information Regulator is told through its eServices portal and the people affected are told as soon as reasonably possible, as POPIA section 22 requires.</li>
+<li><b>Your rights.</b> You may ask what personal information is held about you, ask for it to be corrected or deleted, object to its use, and withdraw consent, by writing to the Information Officer. If you are in the EU or UK you also have the GDPR rights of access, correction, deletion, restriction, portability and objection. How to delete your account: <a href="delete-account.html">Delete your account</a>.</li>
+</ul>
+
+<h2>Why, and your consent</h2>
+<p>Most of these are used only to give you the feature you asked for, and only when you use it; using the feature is your consent to that request. The exception is the usage statistics, recorded while you are signed in: you are told what they contain in the first-start setup and in Settings → Account, and you can switch them off there. You can also stop everything by removing your AI key in Settings, or by going offline.</p>
+
+<h2>Please do not type personal details into AI buttons</h2>
+<p>Names, phone numbers, addresses and health or other private details should not be typed into a request that goes to an AI provider, and should be kept out of banners and plans that are shown to or shared with others. Photographs of people need their permission under POPIA.</p>
+
+<h2>Your rights</h2>
+<p>Most information is on your own device: you can see, change and delete it yourself at any time. A message or chorus you posted on GitHub can be edited or deleted there by you, or by the maintainer if you ask. To see, correct or delete what the Sabbath Service Desk cloud holds about you, write to the Information Officer (see “Who is responsible”) or use <a href="delete-account.html">Delete your account</a>. You may also ask the church that runs Sabbath Service Desk what it keeps about you. If you believe your personal information has been handled wrongly, you may complain to the Information Regulator (South Africa): <a href="https://inforegulator.org.za">inforegulator.org.za</a>.</p>
+
+<h2>Children</h2>
+<p>Sabbath Service Desk is a tool for church media teams. It does not knowingly collect information from children.</p>
+
+<h2>Security</h2>
+<p>An AI key kept in the browser can be read by anyone who can use that browser profile, and by other pages on the same website address. Use a key with a low spending limit, choose “Forget the key when this window closes” on a shared computer, and remove the key after the service.</p>
+
+<h2>Changes</h2>
+<p>If this notice changes, the date at the top changes and the app’s Settings points here.</p>
+
+</main>
+</body>
+</html>

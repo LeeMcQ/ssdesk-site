@@ -1,0 +1,43 @@
+{
+  "name": "Sabbath Service Desk - SSDesk.online",
+  "short_name": "ssdesk",
+  "description": "Offline Bible, hymn, slide, video, web and screen presenter for SDA church media teams.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#161c28",
+  "theme_color": "#161c28",
+  "lang": "en-ZA",
+  "categories": ["productivity", "utilities", "lifestyle"],
+  "icons": [
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Bible", "url": "./index.html?tab=bible", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Hymns", "url": "./index.html?tab=hymns", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Service plan", "url": "./index.html?tab=plan", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Stage (timers, messages)", "url": "./index.html?tab=stage", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Join a stage screen", "url": "./stage.html", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ],
+  "file_handlers": [
+    {
+      "action": "./index.html?tab=slides",
+      "accept": {
+        "application/pdf": [".pdf"],
+        "application/vnd.openxmlformats-officedocument.presentationml.presentation": [".pptx"],
+        "application/vnd.openxmlformats-officedocument.presentationml.slideshow": [".ppsx"],
+        "application/vnd.ms-powerpoint": [".ppt", ".pps", ".pot"],
+        "application/vnd.oasis.opendocument.presentation": [".odp"],
+        "application/vnd.openxmlformats-officedocument.wordprocessingml.document": [".docx"],
+        "text/plain": [".txt"]
+      }
+    }
+  ],
+  "launch_handler": { "client_mode": "focus-existing" }
+}

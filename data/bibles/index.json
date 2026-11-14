@@ -1,0 +1,28 @@
+[
+ {
+  "id": "kjv",
+  "abbr": "KJV",
+  "name": "King James Version",
+  "lang": "en",
+  "year": "1769",
+  "license": "Public domain",
+  "titles": true
+ },
+ {
+  "id": "web",
+  "abbr": "WEB",
+  "name": "World English Bible",
+  "lang": "en",
+  "year": "2006",
+  "license": "Public domain"
+ },
+ {
+  "id": "afr53",
+  "abbr": "AFR",
+  "name": "Afrikaanse Bybel 1933/53",
+  "lang": "af",
+  "year": "1933/1953",
+  "license": "Public domain (50-year term expired)",
+  "titles": true
+ }
+]

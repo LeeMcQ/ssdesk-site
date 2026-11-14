@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sda-online",
+    "name": "SDA Hymnal 1985",
+    "short": "SDAH",
+    "lang": "en",
+    "file": "sda-online.json",
+    "note": "All 698 hymns with their words, offline. 695 play music offline."
+  },
+  {
+    "id": "church-1941",
+    "name": "Church Hymnal 1941",
+    "short": "CH41",
+    "lang": "en",
+    "file": "church-1941.json",
+    "note": "All 703 hymns of the 1941 SDA Church Hymnal with words offline (older public-domain texts)."
+  },
+  {
+    "id": "afrikaans-sda",
+    "name": "Advent Lofliedere (Afrikaans, offline)",
+    "short": "AL",
+    "lang": "af",
+    "file": "afrikaans.json",
+    "note": "All 481 Afrikaans hymns with their words, offline. About 150 play the SDA Hymnal tune."
+  },
+  {
+    "id": "choruses",
+    "name": "English",
+    "short": "SH",
+    "lang": "en",
+    "file": "choruses.json",
+    "note": "Shared Hymns in English: praise choruses (1–45), Malmesbury Praise (101–148, with their own titles) and hymns shared by SDA Sabbath churches (501 and up).",
+    "shared": true
+  }
+]

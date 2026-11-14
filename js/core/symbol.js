@@ -1,0 +1,1 @@
+const t='<path d="M46 10h8v13h13v8H54v27h-8V31H33v-8h13z"/><path d="M8 60c14-6 28-5 39 3v29c-11-7-25-8-39-3z"/><path d="M92 60c-14-6-28-5-39 3v29c11-7 25-8 39-3z"/>';export const SYMBOL='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" aria-hidden="true">'+t+"</svg>",SYMBOL_ROUND=SYMBOL;

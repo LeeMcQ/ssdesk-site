@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-ZA">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; base-uri 'self'; form-action 'none'; object-src 'none'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#161c28">
+<title>Third-party notices – Sabbath Service Desk</title>
+<meta name="description" content="Open-source code and sounds that Sabbath Service Desk includes, with their licences.">
+<link rel="canonical" href="https://ssdesk.online/notices.html">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<style>
+  :root { color-scheme: light dark; --bg:#fbfaf7; --fg:#1d2330; --muted:#5a6475; --line:#d9d6cc; --accent:#1f4068; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#161c28; --fg:#e9e4d8; --muted:#a3acbd; --line:#36435c; --accent:#f2cf7a; } }
+  body { margin:0; background:var(--bg); color:var(--fg); font:17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 46rem; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 1.9rem; line-height:1.2; margin: .4em 0 .2em; } h2 { font-size: 1.25rem; margin: 1.8em 0 .4em; padding-top:.6em; border-top:1px solid var(--line); }
+  a { color: var(--accent); } .muted { color: var(--muted); } nav a { margin-right: 1rem; }
+  table { border-collapse: collapse; width:100%; font-size:.95rem; } th, td { text-align:left; vertical-align: top; padding:.5em .6em; border-bottom:1px solid var(--line); overflow-wrap: anywhere; }
+  @media (max-width: 480px) { table { font-size: .85rem; } th, td { padding: .45em .35em; } }
+  th { color: var(--muted); font-weight:600; }
+</style>
+</head>
+<body>
+<main>
+<nav><a href="./">← Back to the app</a></nav>
+<h1>Third-party notices</h1>
+<p class="muted">Sabbath Service Desk includes the following open-source code. Every file is served from this site; nothing is loaded from another website. The licence text of each project is in its folder in the repository.</p>
+<table>
+<tr><th>Files</th><th>Project</th><th>Version</th><th>Licence</th><th>Source</th></tr>
+<tr><td>qrcode.min.js</td><td>qrcode-generator (Kazuhiko Arase)</td><td>not recorded</td><td>MIT (qrcode.LICENSE)</td><td>https://github.com/kazuhikoarase/qrcode-generator</td></tr>
+<tr><td>fflate-unzip.min.js</td><td>fflate, unzip functions only (unzipSync, strFromU8)</td><td>0.8.3 (rebuilt and compared byte for byte on 23 Oct 2026; it is the release that fixes the ZIP64 hang advisory)</td><td>MIT (fflate.LICENSE)</td><td>https://github.com/101arrowz/fflate</td></tr>
+<tr><td>hls/hls.light.min.js</td><td>hls.js (light build)</td><td>1.5.20</td><td>Apache-2.0 (hls/LICENSE)</td><td>https://github.com/video-dev/hls.js</td></tr>
+<tr><td>pdfjs/pdf.min.mjs, pdfjs/pdf.worker.min.mjs</td><td>pdf.js</td><td>4.10.38</td><td>Apache-2.0 (pdfjs/LICENSE)</td><td>https://github.com/mozilla/pdf.js</td></tr>
+<tr><td>spessasynth/*</td><td>SpessaSynth (library and processor)</td><td>not recorded</td><td>Apache-2.0 (spessasynth/LICENSE)</td><td>https://github.com/spessasus/SpessaSynth</td></tr>
+<tr><td>fluidsynth/*</td><td>FluidSynth (Peter Hanappe and others), compiled to WebAssembly unmodified; optional hymn music engine</td><td>2.6.2</td><td>LGPL-2.1-or-later (fluidsynth/LICENSE-FluidSynth-LGPL-2.1, fluidsynth/NOTICE.txt; source and build script in fluidsynth/src/)</td><td>https://github.com/FluidSynth/fluidsynth</td></tr>
+<tr><td>trystero/trystero-nostr.min.js</td><td>Trystero (Nostr strategy) with noble-secp256k1, with two local patches (trystero/PATCHES.txt)</td><td>0.26.0</td><td>MIT (trystero/LICENSE, trystero/LICENSE-noble-secp256k1)</td><td>https://github.com/dmotz/trystero</td></tr>
+</table>
+<h2>Also included</h2>
+<p>GeneralUser GS 2.0.3 SoundFont; the Fluid R3 GM SoundFont by Frank Wen (MIT, for the optional FluidSynth engine); the optional high-quality hymn sounds (Salamander Grand Piano, GrandOrgue demo organ); Atkinson Hyperlegible and Source Serif fonts (SIL Open Font Licence).</p>
+</main>
+</body>
+</html>

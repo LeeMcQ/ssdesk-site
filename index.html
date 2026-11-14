@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; media-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' data: blob: http://127.0.0.1:7790 http://localhost:7790 https://api.openai.com https://generativelanguage.googleapis.com https://api.x.ai https://api.together.xyz https://openrouter.ai https://api.anthropic.com https://lrclib.net https://api.lyrics.ovh https://raw.githubusercontent.com https: ws: wss:; frame-src 'self' https: blob:; worker-src 'self' blob:; manifest-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#161c28">
+<meta name="description" content="Sabbath Service Desk: a free church presenter that works offline. Bible, hymns, slides, video, banners and a stage screen for Seventh-day Adventist media teams.">
+<link rel="canonical" href="https://ssdesk.online/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sabbath Service Desk">
+<meta property="og:title" content="Sabbath Service Desk – Free Offline Church Presenter">
+<meta property="og:description" content="Bible, hymns, slides, video, banners and a stage screen for church media teams. Free, and it works with no internet.">
+<meta property="og:url" content="https://ssdesk.online/">
+<meta property="og:image" content="https://ssdesk.online/icons/icon-512.png">
+<meta property="og:locale" content="en_ZA">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Sabbath Service Desk – Free Offline Church Presenter">
+<meta name="twitter:description" content="Bible, hymns, slides, video, banners and a stage screen for church media teams. Free, and it works with no internet.">
+<meta name="twitter:image" content="https://ssdesk.online/icons/icon-512.png">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Sabbath Service Desk","applicationCategory":"MultimediaApplication","operatingSystem":"Any (web browser)","description":"A free, offline church presenter for Seventh-day Adventist media teams: Bible, hymns, slides, video, banners, a stage screen and OBS lower thirds.","url":"https://ssdesk.online/","inLanguage":["en","af","xh"],"offers":{"@type":"Offer","price":"0","priceCurrency":"ZAR"}}</script>
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="ssdesk">
+<meta name="application-name" content="Sabbath Service Desk - SSDesk.online">
+<title>Sabbath Service Desk - SSDesk.online</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon.ico" sizes="48x48">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="icons/favicon-64.png" type="image/png" sizes="64x64">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preload" href="fonts/ahn-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/stage.css">
+<link rel="stylesheet" href="css/app.css">
+<script src="js/theme-init.js"></script>
+<script src="js/boot-guard.js"></script>
+</head>
+<body class="app" id="app">
+<a class="skip-link" href="#work">Skip to main content</a>
+<header class="topbar">
+  <h1 class="brand"><img src="icons/favicon.svg" alt="" width="30" height="30"><span>Sabbath Service Desk</span></h1>
+  <button class="disp-btn" id="dispBtn" type="button" title="Choose where to present"><span class="dot"></span><span class="lbl" aria-live="polite">No display</span><span class="lbl-s" aria-hidden="true">No display</span></button>
+  <button class="audio-btn hide-sm" id="audioBtn" type="button" title="Sound output device" hidden><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 5V4L8 9H4z"/><path d="M16 9a4 4 0 0 1 0 6"/></svg></button>
+  <div class="quick" id="quick" role="search">
+    <svg class="i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20.5 20.5-4.5-4.5"/></svg>
+    <input id="quickInput" type="search" autocomplete="off" spellcheck="false" placeholder="Go to… John 3:16 or hymn 73   ( / )" aria-label="Quick go to: Bible reference or hymn number">
+    <div class="quick-pop" id="quickPop" role="listbox" hidden></div>
+  </div>
+  <div class="spacer"></div>
+  <div class="top-icons" id="topIcons"></div>
+  <button class="present empty" id="presentBtn" type="button" title="Present the selected item (F5 or Ctrl+Enter)">
+    <svg class="i pi" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="3.5" width="19" height="13" rx="1.5"/><path d="m10 7.5 4.5 2.5-4.5 2.5z"/><path d="M8 21h8M12 16.5V21"/></svg>
+    <span class="pk">Present</span><kbd>F5</kbd>
+    <span class="pn" id="presentNext">Nothing selected</span>
+  </button>
+</header>
+<nav class="rail-nav" aria-label="Media"><div class="rail" id="rail" role="tablist" aria-label="Media"></div></nav>
+<main class="work" id="work" tabindex="-1"></main>
+<aside class="monitors" id="monitors" aria-label="Next and live"></aside>
+<footer class="ctrlbar" id="ctrlbar" hidden></footer>
+<noscript><p style="padding:24px">Sabbath Service Desk needs JavaScript turned on.</p></noscript>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
