@@ -1,0 +1,29 @@
+# Sabbath Service Desk
+
+> Free church presentation software for Seventh-day Adventist media teams. It shows the Bible, hymns with music, slides, video and announcements on a projector or TV, gives the platform a stage screen, installs from the web browser at https://ssdesk.online/ and works with no internet once installed. Made by Lee McQuire of WiFi vs The Word Ministries, Malmesbury, South Africa. Independent: not an official product of the Seventh-day Adventist Church.
+
+Key facts:
+- Price: free, no adverts, no account needed.
+- Works offline after the first visit installs it (Bibles, hymns, hymn music and fonts are stored on the device).
+- Runs in Chrome or Edge on Windows, Mac and Linux computers (best for a projector), and on Android, iPhone and iPad.
+- Built in: King James Version, World English Bible, Afrikaans 1933/53 Bible; English and Afrikaans hymnbooks with offline hymn music. Hymnbooks in more languages (isiXhosa, isiZulu, Sesotho, Setswana, Shona, Swahili, French, Portuguese, Spanish and others) can be added and then work offline.
+- Adventist service plans (Divine Service, Sabbath School, Vespers / AY, Communion, Thirteenth Sabbath, Baptism and more), Sabbath times worked out offline, no updates during the Sabbath.
+- Stage screen with clock, timers and messages; phone remote with a PIN; PowerPoint, PDF and picture slides; video and music player; banners.
+- Optional free companion program for the church PC (Windows, Linux, macOS) links phones, TVs and a second PC over the church network with no internet.
+
+## Pages
+- [About Sabbath Service Desk](https://ssdesk.online/about.html): what it does, quick facts, how to start, questions and answers
+- [In Afrikaans](https://ssdesk.online/afrikaans.html): dieselfde inligting in Afrikaans
+- [Open the app](https://ssdesk.online/): the app itself (installs from the browser)
+
+## Guides
+- [Run a church service with no internet](https://ssdesk.online/guide-offline-church-service.html)
+- [Show hymns with music on the projector](https://ssdesk.online/guide-hymns-with-music.html)
+- [Set up a stage screen and a phone remote](https://ssdesk.online/guide-stage-screen-and-phone-remote.html)
+
+## Optional
+- [Companion program download](https://ssdesk.online/companion.html)
+- [Share with another church](https://ssdesk.online/share.html)
+- [Privacy notice](https://ssdesk.online/privacy.html)
+- [Terms](https://ssdesk.online/terms.html)
+- [Full text of these pages for language models](https://ssdesk.online/llms-full.txt)

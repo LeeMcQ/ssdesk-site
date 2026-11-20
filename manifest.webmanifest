@@ -1,0 +1,48 @@
+{
+  "name": "Sabbath Service Desk - SSDesk.online",
+  "short_name": "ssdesk",
+  "description": "Free offline church presenter for Seventh-day Adventist media teams: Bible, hymns with music, slides, video, banners and a stage screen.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#161c28",
+  "theme_color": "#161c28",
+  "lang": "en-ZA",
+  "dir": "ltr",
+  "categories": ["productivity", "utilities", "lifestyle"],
+  "icons": [
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "share/screenshot-wide.png", "sizes": "1280x720", "type": "image/png", "form_factor": "wide", "label": "Sabbath Service Desk control screen with the Next and Live monitors" },
+    { "src": "share/screenshot-narrow.png", "sizes": "750x1334", "type": "image/png", "form_factor": "narrow", "label": "Sabbath Service Desk on a phone" }
+  ],
+  "shortcuts": [
+    { "name": "Bible", "url": "./index.html?tab=bible", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Hymns", "url": "./index.html?tab=hymns", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Service plan", "url": "./index.html?tab=plan", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Stage (timers, messages)", "url": "./index.html?tab=stage", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Join a stage screen", "url": "./stage.html", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ],
+  "file_handlers": [
+    {
+      "action": "./index.html?tab=slides",
+      "accept": {
+        "application/pdf": [".pdf"],
+        "application/vnd.openxmlformats-officedocument.presentationml.presentation": [".pptx"],
+        "application/vnd.openxmlformats-officedocument.presentationml.slideshow": [".ppsx"],
+        "application/vnd.ms-powerpoint": [".ppt", ".pps", ".pot"],
+        "application/vnd.oasis.opendocument.presentation": [".odp"],
+        "application/vnd.openxmlformats-officedocument.wordprocessingml.document": [".docx"],
+        "text/plain": [".txt"]
+      }
+    }
+  ],
+  "launch_handler": { "client_mode": "focus-existing" }
+}

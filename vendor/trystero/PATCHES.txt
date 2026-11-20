@@ -1,0 +1,3 @@
+Trystero 0.26.0 (nostr strategy) bundled with esbuild.
+Local patch in @trystero-p2p/nostr: steadyAnnounceIntervalMs 60 s -> 10 s, and subscription since = now - 120 s
+(stage screens joining late connect within ~10 s; phones with a fast clock still see the media desk).

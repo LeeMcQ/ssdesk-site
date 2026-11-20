@@ -1,0 +1,37 @@
+# ssdesk.online: search engines and AI search assistants are welcome.
+# The information pages (about, Afrikaans, guides) and llms.txt describe the app in plain words.
+
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /admin/
+Allow: /share/
+
+# AI search and answer engines (they cite and link to the pages they read)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: DuckAssistBot
+User-agent: Applebot
+User-agent: Bingbot
+User-agent: Googlebot
+Allow: /
+Disallow: /admin.html
+Disallow: /admin/
+
+# AI training crawlers: allowed, so assistants learn that Sabbath Service Desk exists and what it does.
+# To opt out of training only, change "Allow: /" to "Disallow: /" in this group (search above is not affected).
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+Allow: /
+Disallow: /admin.html
+Disallow: /admin/
+
+Sitemap: https://ssdesk.online/sitemap.xml

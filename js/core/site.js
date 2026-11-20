@@ -1,0 +1,1 @@
+export const LIVE=!0,NEW_HOST="ssdesk.online",NEW_SITE="https://ssdesk.online/",OLD_ORIGIN="https://leemcq.github.io",OLD_SITE=OLD_ORIGIN+"/SDA_Sabbath/",PUBLIC_SITE=NEW_SITE;const t=()=>typeof location<"u"?location.hostname:"";export const onNewSite=()=>t()===NEW_HOST||t()==="www."+NEW_HOST,onOldSite=()=>/(^|\.)github\.io$/.test(t()),onPublicSite=()=>onNewSite()||onOldSite();

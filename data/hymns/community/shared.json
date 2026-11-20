@@ -1,0 +1,929 @@
+{
+ "about": "Shared Hymns: songs shared by SDA Sabbath churches in every language and approved by the maintainer. Added by the chorus robot (.github/workflows/chorus.yml); do not renumber. Numbers start at 501 in each language; lang is the language code.",
+ "rev": 1,
+ "updated": "2026-11-11T21:14:23Z",
+ "songs": [
+  {
+   "n": 501,
+   "lang": "en",
+   "id": "en-spirit-song-501",
+   "t": "Spirit Song",
+   "a": "",
+   "v": [
+    [
+     "Oh let the Son of God enfold you,",
+     "with His Spirit and His love,",
+     "let Him fill your heart and satisfy your soul."
+    ],
+    [
+     "Oh let Him have the things that",
+     "hold you, and His Spirit like a dove,",
+     "will descend upon your life,",
+     "and make it whole."
+    ],
+    [
+     "Oh come and sing this song with gladness,",
+     "as your hearts are filled with joy,",
+     "lift your hands in sweet, surrender to His name."
+    ],
+    [
+     "Oh give Him all your tears and sadness,",
+     "give Him all your years of pain,",
+     "and you'll enter into life, in Jesus' name."
+    ]
+   ],
+   "c": [
+    "Jesus, Oh Jesus, come and fill your lambs.",
+    "Jesus, Oh Jesus, come and fill your lambs."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 502,
+   "lang": "en",
+   "id": "en-father-make-us-one-502",
+   "t": "Father Make Us One",
+   "a": "",
+   "v": [
+    [
+     "Father make us one,",
+     "Father make us one,",
+     "that the world may know",
+     "Thou hast sent the Son",
+     "Father make us one."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 503,
+   "lang": "en",
+   "id": "en-i-could-never-outlove-the-lord-503",
+   "t": "I Could Never Outlove the Lord",
+   "a": "",
+   "v": [
+    [
+     "There've been times",
+     "when giving",
+     "and loving brought pain.",
+     "And I promised I would never",
+     "let it happen again;"
+    ],
+    [
+     "But I found out that loving was",
+     "well worth the risk,",
+     "And that even in losing you win."
+    ],
+    [
+     "He — showed us that only",
+     "through dying we live,",
+     "And He gave when it seemed there was",
+     "nothing to give;"
+    ],
+    [
+     "He — loved when loving brought",
+     "heart-ache and loss,",
+     "He forgave, from an old rugged cross."
+    ]
+   ],
+   "c": [
+    "I'm going to live the way",
+    "He wants me to live,",
+    "I'm going to give",
+    "until there's just no more to give;"
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 504,
+   "lang": "en",
+   "id": "en-i-lift-my-hands-504",
+   "t": "I Lift My Hands",
+   "a": "",
+   "v": [
+    [
+     "I lift my hands",
+     "to the coming king,",
+     "to the great \"I  Am”",
+     "to You I sing,",
+     "for You're the One",
+     "who reigns within my heart."
+    ]
+   ],
+   "c": [
+    "And I will serve no foreign god,",
+    "or any other treasure;",
+    "You are my heart's desire,",
+    "Spirit without measure.",
+    "Unto Your name",
+    "I will bring my sacrifice."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 505,
+   "lang": "en",
+   "id": "en-something-beautiful-505",
+   "t": "Something Beautiful",
+   "a": "",
+   "v": [
+    [
+     "Something beautiful,",
+     "something good;",
+     "All my confusion",
+     "He understood;",
+     "All I have to offer Him",
+     "was brokenness and strife",
+     "But He made something",
+     "beautiful of my life."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 506,
+   "lang": "en",
+   "id": "en-our-god-reigns-506",
+   "t": "Our God Reigns",
+   "a": "",
+   "v": [
+    [
+     "How lovely on the mountains",
+     "are the feet of Him who brings",
+     "good news, good news."
+    ],
+    [
+     "Announcing peace, proclaiming,",
+     "news of happiness,",
+     "our God reigns, our God reigns."
+    ]
+   ],
+   "c": [
+    "Our God reigns, Our God reigns",
+    "Our God reigns, Our God reigns."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 507,
+   "lang": "en",
+   "id": "en-lets-talk-about-jesus-507",
+   "t": "Let's Talk About Jesus",
+   "a": "",
+   "v": [
+    [
+     "Let's talk about Jesus",
+     "the King of kings is He.",
+     "The Lord of lords supreme thru all eternity,",
+     "The, great I AM, the Way,",
+     "the Truth the Life, the Door",
+     "Let's talk about Jesus more and more."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 508,
+   "lang": "en",
+   "id": "en-higher-higher-508",
+   "t": "Higher, Higher",
+   "a": "",
+   "v": [
+    [
+     "Higher, higher, higher higher higher,",
+     "higher higher,lift up Jesus higher.",
+     "Higher higher, higher higher, higher higher",
+     "higher higher, higher higher, lift up Jesus,",
+     "higher"
+    ],
+    [
+     "Lower lower, lower lower, lower,",
+     "lower lower, lower Satan lower.",
+     "Lower lower, lower lower lower,",
+     "lower lower, lower, lower Satan lower."
+    ],
+    [
+     "Cast your burdens onto Jesus,",
+     "He cares for you.",
+     "Cast your burdens onto Jesus,",
+     "He cares for you.",
+     "Higher Higher, higher higher,higher,",
+     "higher higher, lift up Jesus higher.",
+     "Higher higher higher higher higher,",
+     "higher higher, lift up Jesus higher."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 509,
+   "lang": "en",
+   "id": "en-it-is-no-secret-509",
+   "t": "It Is No Secret",
+   "a": "",
+   "v": [
+    [
+     "The chimes of time ring out the news;",
+     "Another day is through.",
+     "Someone slipped and fell.",
+     "Was that someone you?"
+    ],
+    [
+     "You may have longed for added strength,",
+     "your courage to renew.",
+     "Do not be dishearted,",
+     "for I bring hope to you."
+    ],
+    [
+     "There is no night, for in His light",
+     "You'll never walk alone.",
+     "Always feel at home",
+     "where-ever you may roam."
+    ],
+    [
+     "There is no power can conquer you,",
+     "while God is on your side.",
+     "just take Him at His promise;",
+     "Don't run away and hide."
+    ]
+   ],
+   "c": [
+    "It is no secret",
+    "what God can do.",
+    "What He's done for others,",
+    "He'll, do for you.",
+    "With arms wide open",
+    "He'll pardon you,",
+    "It is no secret",
+    "what God can do."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 510,
+   "lang": "en",
+   "id": "en-just-a-closer-walk-510",
+   "t": "Just a Closer Walk",
+   "a": "",
+   "v": [
+    [
+     "I am weak but Thou art strong;",
+     "Jesus, keep me from all wrong;",
+     "I'll be satisfied as long.",
+     "As I walk, let me walk close to Thee."
+    ],
+    [
+     "Through this world of toil and snares,",
+     "If I falter Lord, who cares?",
+     "Who with me my burden shares?",
+     "None but Thee, dear Lord none, but Thee."
+    ],
+    [
+     "When my feeble life is o'er,",
+     "Time for me will be no more;",
+     "guide me gently, safely o'er",
+     "To Thy kingdom shore, to Thy shore."
+    ]
+   ],
+   "c": [
+    "Just a closer walk with Thee,",
+    "Grant it, Jesus, is my plea.",
+    "Daily walking close to Thee,",
+    "Let it be, dear Lord, let it be."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 511,
+   "lang": "en",
+   "id": "en-the-family-of-god-511",
+   "t": "The Family of God",
+   "a": "",
+   "v": [
+    [
+     "You will notice we say \"brother\"",
+     "and \"sister\" 'round here",
+     "it's because we're a family",
+     "and these folks are so near;",
+     "When one has a heart-ache we",
+     "all share the tears,",
+     "And rejoice in each victory,",
+     "In this family so dear."
+    ]
+   ],
+   "c": [
+    "I'm so glad I'm a part",
+    "of the family of God",
+    "I've been washed in the fountain,",
+    "cleansed by His blood!",
+    "Joint heirs with Jesus",
+    "as we travel this sod,",
+    "For I'm part of the family,",
+    "the family of God."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 512,
+   "lang": "en",
+   "id": "en-he-is-lord-512",
+   "t": "He Is Lord",
+   "a": "",
+   "v": [
+    [
+     "He is Lord, He is Lord,",
+     "He is risen from the dead and He is Lord."
+    ],
+    [
+     "Every knee shall bow,",
+     "every tongue confess",
+     "that Jesus Christ is Lord."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 513,
+   "lang": "en",
+   "id": "en-in-moments-like-these-513",
+   "t": "In Moments Like These",
+   "a": "",
+   "v": [
+    [
+     "In moments like these,",
+     "I sing out a song,",
+     "I sing out a love song to Jesus."
+    ],
+    [
+     "In moments like these,",
+     "I lift up my hands,",
+     "I lift up my hands to the Lord."
+    ],
+    [
+     "Singing I love You, Lord",
+     "Singing I love You, Lord",
+     "Singing I love You, Lord",
+     "I love You."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 514,
+   "lang": "en",
+   "id": "en-learning-to-lean-514",
+   "t": "Learning to Lean",
+   "a": "",
+   "v": [
+    [
+     "Learning to lean,",
+     "learning to lean,",
+     "I'm learning to lean on Jesus.",
+     "Finding more power than I'd ever dreamed,",
+     "I'm learning to lean, on Jesus."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 515,
+   "lang": "en",
+   "id": "en-we-shall-behold-him-515",
+   "t": "We Shall Behold Him",
+   "a": "",
+   "v": [
+    [
+     "The sky shall unfold,",
+     "preparing His entrance;",
+     "The stars shall applaud",
+     "Him with thunders of praise.",
+     "The sweet light in His eyes",
+     "shall enhance those awaiting;",
+     "And we shall behold Him then face to face."
+    ],
+    [
+     "The angel shall sound",
+     "the shout of His coming;",
+     "The sleeping shall rise",
+     "from their slumbering place.",
+     "And those who remain",
+     "shall be changed in a moment;",
+     "And we shall behold Him then face to face."
+    ]
+   ],
+   "c": [
+    "And we shall behold Him,",
+    "We shall behold Him face to face",
+    "in all of His glory.",
+    "O we shall behold Him,",
+    "We shall behold Him Face to face,",
+    "our Saviour and Lord."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 516,
+   "lang": "en",
+   "id": "en-i-have-decided-516",
+   "t": "I Have Decided",
+   "a": "",
+   "v": [
+    [
+     "I have decided to follow Jesus,",
+     "I have decided to follow Jesus,",
+     "I have decided to follow Jesus,",
+     "No turning back, no turning back!"
+    ],
+    [
+     "Tho' none go with me still I will follow,",
+     "Tho' none go with me still , I will follow,",
+     "Tho' none go with me still I will follow,",
+     "No turning back, no turning back!"
+    ],
+    [
+     "The world behind me, the cross before me",
+     "The world behind me the cross before me,",
+     "The world behind me, the cross before me",
+     "No turning back, no turning back."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 517,
+   "lang": "en",
+   "id": "en-oh-how-he-loves-you-and-me-517",
+   "t": "Oh, How He Loves You and Me",
+   "a": "",
+   "v": [
+    [
+     "Oh, how He loves you and me!",
+     "Oh, how He loves you and me!",
+     "He gave His life, what more could He give?",
+     "Oh, how He loves you,",
+     "Oh, how He loves me,",
+     "Oh, how He loves you and me!"
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 518,
+   "lang": "en",
+   "id": "en-side-by-side-518",
+   "t": "Side by Side",
+   "a": "",
+   "v": [
+    [
+     "Side by side we stand",
+     "awaiting God's command,",
+     "Worshiping the saving King.",
+     "living by His grace",
+     "and moving on in faith;",
+     "Jesus Himself will see us through."
+    ],
+    [
+     "Soldiers all are we",
+     "to go where Jesus leads,",
+     "We'll fight in faith, and we will overcome.",
+     "Heaven is our goal,",
+     "and saving every soul;",
+     "Pray that we all will be there."
+    ]
+   ],
+   "c": [
+    "Meet me in heaven, we'll join, hands together;",
+    "Meet me by the Saviour's side.",
+    "I'll meet you in heaven, we'll sing songs together;",
+    "Brothers and sisters, I'll be there!"
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 519,
+   "lang": "en",
+   "id": "en-he-is-the-king-of-kings-519",
+   "t": "He Is the King of Kings",
+   "a": "",
+   "v": [
+    [
+     "He is the King of Kings.",
+     "He is the Lord of Lords.",
+     "His name is Jesus, Jesus.",
+     "Jesus, Jesus.",
+     "O— He is the King."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 520,
+   "lang": "en",
+   "id": "en-be-still-and-know-520",
+   "t": "Be Still and Know",
+   "a": "",
+   "v": [
+    [
+     "Be still and know that I am God,",
+     "be still and know that I am God,",
+     "be still and know that I am God."
+    ],
+    [
+     "I am the Lord that healeth thee,",
+     "I am the Lord that healeth thee,",
+     "I am the Lord that healeth thee."
+    ],
+    [
+     "In Thee, O Lord, do I put my trust,",
+     "in Thee, O Lord do I put my trust,",
+     "in Thee, O Lord do I put my trust."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 521,
+   "lang": "en",
+   "id": "en-lord-make-me-an-instrument-521",
+   "t": "Lord Make Me an Instrument",
+   "a": "",
+   "v": [
+    [
+     "Lord make me an instrument,",
+     "an instrument of worship;",
+     "I lift up my hands in Your name.",
+     "Lord make me an instrument,",
+     "an instrument of worship;",
+     "I lift up my hands in Your name."
+    ],
+    [
+     "I'll sing You a love song,",
+     "A love, song of worship,",
+     "I'll lift up my hands in Your name.",
+     "I'll sing You a love song",
+     "A love song to Jesus,",
+     "I'll lift up my hands in Your name."
+    ],
+    [
+     "For we are a symphony,",
+     "A symphony of worship,",
+     "We lift up our hands in Your name.",
+     "For we are a symphony,",
+     "A symphony of worship.",
+     "We lift up our hands in Your name."
+    ],
+    [
+     "We'll sing You a love song,",
+     "A love song of worship,",
+     "We'll lift up our hands in Your name.",
+     "We'll sing You a love song",
+     "A love to Jesus,",
+     "We'll lift up our hands in Your name."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 522,
+   "lang": "en",
+   "id": "en-make-me-like-you-522",
+   "t": "Make Me Like You",
+   "a": "",
+   "v": [
+    [
+     "Lord, make me like You.",
+     "Please, make me like You.",
+     "You are a servant.",
+     "Make me one too.",
+     "O, Lord, I am willing.",
+     "Do what You must do",
+     "to make me like You, Lord.",
+     "Just make me like You."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 523,
+   "lang": "en",
+   "id": "en-a-new-commandment-523",
+   "t": "A New Commandment",
+   "a": "",
+   "v": [
+    [
+     "A new commandment",
+     "I give unto you,",
+     "that you love one another",
+     "as I have lov'd you,",
+     "that you love one another",
+     "as I have lov'd you."
+    ],
+    [
+     "By this shall all men know",
+     "that you are My disciples,",
+     "if you have love one for another.",
+     "By this shall all men know",
+     "that you are My disciples,",
+     "if you have love one for another."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 524,
+   "lang": "en",
+   "id": "en-were-together-again-524",
+   "t": "We're Together Again",
+   "a": "",
+   "v": [
+    [
+     "We're together again,",
+     "praising, the Lord.",
+     "We're together again, in one accord.",
+     "Something good is about to happen.",
+     "Something good is in store.",
+     "We're together again,",
+     "praising the Lord."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 525,
+   "lang": "en",
+   "id": "en-happiness-is-the-lord-525",
+   "t": "Happiness Is the Lord",
+   "a": "",
+   "v": [
+    [
+     "Happiness is to know the Saviour,",
+     "Living a life within His favour,",
+     "Having a change in my behavior",
+     "Happiness is the Lord."
+    ],
+    [
+     "Happiness is a new creation",
+     "Jesus and me in close relation,",
+     "Having a part in His salvation,",
+     "Happiness is the Lord."
+    ],
+    [
+     "Happiness is to be forgiven,",
+     "Living a life that's worth the livin'",
+     "Taking a trip that leads to heaven!",
+     "Happiness is the Lord,",
+     "Happiness is the Lord",
+     "Happiness is the Lord!"
+    ]
+   ],
+   "c": [
+    "Real joy is mine,",
+    "no matter if the teardrops start;",
+    "I've found the secret",
+    "it's Jesus in my heart!"
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 526,
+   "lang": "en",
+   "id": "en-over-the-sea-526",
+   "t": "Over the Sea",
+   "a": "",
+   "v": [
+    [
+     "Over and over,",
+     "like the mighty sea,",
+     "Comes the love of Jesus,",
+     "rolling over me."
+    ]
+   ],
+   "c": [
+    "Over the sea, over the sea,",
+    "Jesus Saviour pilot me,",
+    "over the sea, over the sea,",
+    "over the jasper sea."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 527,
+   "lang": "en",
+   "id": "en-whisper-a-prayer-527",
+   "t": "Whisper a Prayer",
+   "a": "",
+   "v": [
+    [
+     "Whisper a prayer in the morning",
+     "Whisper a prayer at noon;",
+     "Whisper a prayer in the evening,",
+     "To keep your heart in tune,"
+    ],
+    [
+     "God answers prayer in the morning,",
+     "God answers prayer at noon;",
+     "God answers prayer in the evening,",
+     "To keep your heart in tune."
+    ],
+    [
+     "Jesus may come in the morning",
+     "Jesus may come at noon;",
+     "Jesus may come in the evening,",
+     "So keep your heart in tune."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 528,
+   "lang": "en",
+   "id": "en-great-and-mighty-528",
+   "t": "Great and Mighty",
+   "a": "",
+   "v": [
+    [
+     "Great and mighty is the lord our God.",
+     "Great and mighty is He.",
+     "Great and mighty is the Lord our God.",
+     "Great and mighty is He."
+    ],
+    [
+     "Lift your banner, let the anthems ring,",
+     "praises to our King:",
+     "Great, and mighty is the Lord our God,",
+     "Great and mighty is He."
+    ],
+    [
+     "Great and mighty is the Lord our God.",
+     "Great and mighty is He.",
+     "Great and mighty is the Lord our God.",
+     "Great and mighty is He."
+    ],
+    [
+     "Lift your banner, let the anthems ring,",
+     "praises to your King.",
+     "Great and mighty is the Lord our God,",
+     "Great and mighty is,",
+     "Great and mighty is,",
+     "Great and mighty is He."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 529,
+   "lang": "en",
+   "id": "en-how-majestic-is-your-name-529",
+   "t": "How Majestic Is Your Name",
+   "a": "",
+   "v": [
+    [
+     "O Lord, our Lord,",
+     "how majestic is Your name in all the earth.",
+     "O Lord, our Lord,",
+     "how majestic is Your name in all the earth."
+    ]
+   ],
+   "c": [
+    "O Lord, we praise Your name.",
+    "O Lord, we glorify Your name",
+    "Prince of Peace, mighty God,",
+    "O Lord God Almighty."
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 530,
+   "lang": "en",
+   "id": "en-im-gonna-sing-530",
+   "t": "I'm Gonna Sing",
+   "a": "",
+   "v": [
+    [
+     "I'm gonna sing, sing, sing;",
+     "I'm gonna shout, shout, shout;",
+     "I'm gonna sing, I'm gonna shout,",
+     "Praise the Lord."
+    ],
+    [
+     "When those gates are open wide",
+     "I'm gonna sit by Jesus' side.",
+     "I'm gonna sing, I'm gonna shout",
+     "Praise the Lord."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 531,
+   "lang": "en",
+   "id": "en-oh-magnify-the-lord-531",
+   "t": "Oh, Magnify the Lord",
+   "a": "",
+   "v": [
+    [
+     "O magnify the Lord,",
+     "(O magnify, the Lord),",
+     "for He is worthy to be praised.",
+     "(He is worthy to be praised)",
+     "O magnify the Lord,",
+     "(O magnify, the Lord),",
+     "for He is worthy to be, praised."
+    ],
+    [
+     "Hosanna, blessed be the Rock,",
+     "and may the God of my salvation be exalted.",
+     "Hosanna, blessed be the Rock",
+     "and may the God of my salvation be exalted."
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  },
+  {
+   "n": 532,
+   "lang": "en",
+   "id": "en-rejoice-in-the-lord-always-532",
+   "t": "Rejoice in the Lord Always",
+   "a": "",
+   "v": [
+    [
+     "Rejoice in the Lord always,",
+     "and again I say, rejoice.",
+     "Rejoice in the Lord always,",
+     "and again I say, rejoice."
+    ],
+    [
+     "Rejoice! Rejoice,",
+     "and again I say rejoice!",
+     "Rejoice! Rejoice,",
+     "and again I say, rejoice!"
+    ]
+   ],
+   "by": "Church SDA Hymnal deck",
+   "added": "2026-11-11",
+   "issue": 0
+  }
+ ]
+}

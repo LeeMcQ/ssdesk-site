@@ -1,0 +1,312 @@
+# Sabbath Service Desk: full text of the information pages (updated 2026-11-20)
+
+Source: https://ssdesk.online/llms.txt. The app itself is at https://ssdesk.online/.
+
+
+---
+Page: https://ssdesk.online/about.html
+# Free church presentation software for Adventist media teams
+
+Updated 2026-11-20
+
+Sabbath Service Desk is free church presentation software for Seventh-day Adventist media teams.
+It puts the Bible, hymns with music, slides, video and announcements on the projector or TV, and gives the platform a
+stage screen. It installs from your web browser, works with no internet once installed, and runs on an old church PC
+or a phone.
+
+## Quick facts
+- Price: Free. No adverts. No payment.
+- Made for: Seventh-day Adventist church media teams: Divine Service, Sabbath School, Vespers and more
+- Works offline: Yes, once installed from the browser
+- Devices: Windows, Mac and Linux computers; Android phones and tablets; iPhone and iPad. Chrome or Edge on a computer is best for a projector.
+- Bibles built in: King James Version, World English Bible, Afrikaans 1933/53. Others can be added.
+- Hymns: English and Afrikaans hymnbooks with hymn music, built in. Hymnbooks in more languages can be added.
+- Account: Not needed
+- Made by: Lee McQuire, WiFi vs The Word Ministries, Malmesbury, South Africa
+
+## What it puts on the screen
+- The Bible. Type John 3:16 or Ps 23 and it is ready. Two translations side by side, text that fills the screen, long passages split into readable slides.
+- Hymns with music. Find a hymn by number or words. One stanza per slide, the chorus repeated for you, and the hymn music played from the device with no internet. The words change just before the music reaches them, so people can read ahead.
+- Slides. PowerPoint, PDF and pictures, kept on the device. A WhatsApp poster can be pasted straight in.
+- Video and music. A player with playlists, fades and volume boost, and background music that keeps playing under the words.
+- Banners and announcements. Welcome, tithe and offering, countdown, Sabbath sunset and more, filled in with your church name, the date and the sunset time. A pre-service loop with a "Service starts in" clock.
+- Web pages and YouTube, when the church has internet.
+
+## Made for the Adventist service
+- Ready-made service plans: Divine Service, Sabbath School, Vespers / AY, Communion, Prayer Meeting, Thirteenth Sabbath, Baptism, Child Dedication, Pathfinder and Adventurer Investiture, and Week of Prayer.
+- Sabbath times worked out with no internet from the church's location, and a "Happy Sabbath" greeting from Friday sunset.
+- Key verses for the 28 Fundamental Beliefs and about 40 sermon topics, in English or Afrikaans.
+- Sabbath School lesson banners, when switched on in Settings.
+- No updates during the Sabbath: from Friday midday to Saturday night, and while something is on screen, an update never takes over by itself.
+
+## Easy for the volunteer at the desk
+- Next and Live. Prepare on your own screen; nothing reaches the congregation until you press Present.
+- Basic mode shows the order of service with a Show button per part and big Back and Next buttons.
+- Black, Logo and Clear are always one key away. A presentation clicker works without set-up.
+- Phone remote. Run the order of service from a phone on the church Wi-Fi, protected by a PIN.
+- Stage screen. The preacher sees the clock, a countdown, what comes next, speaker notes and messages from the desk. The congregation never sees it.
+- Low-power mode for old PCs and 1–2 GB phones switches on by itself.
+
+## Start in five steps
+- On the church PC, open ssdesk.online in Chrome or Edge, with internet.
+- Press Install when the card at the bottom offers it, and wait for Saved on this device.
+- Follow the short setup: your church name, town and service languages, your screens and hymn music.
+- Connect the projector as an extended screen (Windows: Win+P → Extend), then press Present.
+- On Friday evening do the two-minute check in Run a church service with no internet (https://ssdesk.online/guide-offline-church-service.html).
+
+## If you are choosing a church presenter
+
+Well-known church presenters include EasyWorship and ProPresenter, which are paid subscriptions, and OpenLP and
+FreeShow, which are free. They are general tools for any church, and many churches use them well. Sabbath Service Desk
+is narrower: it is free, it runs in the browser, and it is built around the Adventist service, with Adventist service
+plans, Sabbath times, hymns with music and a quiet Sabbath with no updates.
+
+What it does not do: it is not a desktop program you download (the free optional companion (https://ssdesk.online/companion.html)
+adds a program for the church PC), and putting words on a projector works best in Chrome or Edge on a computer.
+
+## Guides
+- Run a church service with no internet (https://ssdesk.online/guide-offline-church-service.html)
+- Show hymns with music on the projector (https://ssdesk.online/guide-hymns-with-music.html)
+- Set up a stage screen and a phone remote (https://ssdesk.online/guide-stage-screen-and-phone-remote.html)
+
+## Questions and answers
+
+### What is Sabbath Service Desk?
+
+A free church presenter made for Seventh-day Adventist media teams. It shows the Bible, hymns with music, slides, video and announcements on a projector or TV, and gives the platform a stage screen with a clock and timers. It runs in a web browser at ssdesk.online and installs from there.
+
+### How much does it cost?
+
+Nothing. There are no adverts and no payment. A few optional online extras, such as AI pictures from a provider you choose, are run by other companies and may have their own charges.
+
+### Does it work without internet?
+
+Yes, once it is installed. The first visit needs the internet to store the app on the device. After that a whole service runs with no signal. Extra Bibles and hymnbooks, web pages and updates need the internet when you add them.
+
+### What do I need to run it?
+
+A computer with Chrome or Edge is best for a projector or TV on an extended screen. An old church PC is fine: a low-power mode switches on by itself on weak devices. Phones and tablets can run it too, or act as a remote or a stage screen.
+
+### Which Bibles and hymnbooks does it have?
+
+Built in: the King James Version, the World English Bible and the Afrikaans 1933/53 Bible, with English and Afrikaans hymnbooks that play hymn music. Hymnbooks in more languages, such as isiXhosa, isiZulu, Sesotho, Setswana, Shona, Swahili, French, Portuguese and Spanish, can be added once and then work offline. Licensed Bibles such as the NIV or ESV are added by each church from its own file.
+
+### Can I show PowerPoint slides?
+
+Yes. PowerPoint, PDF and pictures are turned into slides once and kept on the device. Click animations in PowerPoint are played one step per click. Speaker notes show on the stage screen.
+
+### Does it work with a presentation clicker?
+
+Yes. Common clickers (Logitech, Targus, Norwii and others) work without set-up, and a clicker test shows what each button sends.
+
+### Do I need an account?
+
+No. Signing in is optional. The app has no adverts and no tracking cookies; see the privacy notice (https://ssdesk.online/privacy.html).
+
+### Is it an official Seventh-day Adventist Church product?
+
+No. It is an independent, free tool made by Lee McQuire of WiFi vs The Word Ministries in Malmesbury, South Africa, for church media teams. It is not made or endorsed by the Seventh-day Adventist Church.
+
+## Who makes it
+
+Sabbath Service Desk is made by Lee McQuire of WiFi vs The Word Ministries, a church media volunteer in Malmesbury,
+South Africa, so that the media team does not miss the sermon. Questions and ideas are welcome on the
+comments page (https://ssdesk.online/feedback.html). Afrikaans: lees hierdie bladsy in Afrikaans (https://ssdesk.online/afrikaans.html).
+
+
+---
+Page: https://ssdesk.online/guide-offline-church-service.html
+# How to run a church service with no internet
+
+Updated 2026-11-20
+
+Church buildings often have weak or no internet, and data costs money. Sabbath Service Desk is built so
+that a whole service runs with no internet at all. Here is how to set it up once, and how to check it every week.
+
+## Once: store everything on the church PC
+- Open ssdesk.online in Chrome or Edge on the church PC, with internet.
+- Keep it open for a minute. A card at the bottom shows the progress and then Saved on this device. The Bibles, hymns, hymn music, fonts and slide tools are now on the PC.
+- Press Install. The app gets its own icon and window, and opens with no internet.
+- Press Protect data when it is offered, so the browser never clears the app to free disk space.
+- In the setup's last screen, Ready for Sabbath, press Download all for the Bibles and hymnbooks of your church's languages.
+- Import your slides and videos before the Sabbath. They are kept on the device.
+
+## Every Friday evening: the two-minute check
+- Open Sabbath Service Desk with the internet on and wait for ✔ Ready offline at the top.
+- Tap the badge: every line should have a tick. Apply any waiting update now, not tomorrow.
+- Switch the internet off. Close Sabbath Service Desk completely and open it again.
+- Show a Bible verse, a hymn with music and the first slide of the plan on the projector.
+- Switch the internet back on, or leave it off for the service.
+
+## What keeps the service safe
+- No updates during the Sabbath. From Friday midday to Saturday night, and while something is on screen, an update never takes over by itself.
+- Updates cannot half-happen. A new version downloads completely first; if it is interrupted, the working version stays.
+- It repairs itself. Every half hour with internet, missing files are fetched again.
+- One problem does not stop the rest. If one tab fails, it offers Try again, and every other tab keeps working.
+- Online buttons hide when there is no internet, so a volunteer never presses something that cannot work.
+
+## Phones, stage screens and no internet at all
+
+A phone remote or a stage screen on a phone connects over the church Wi-Fi. To do this with no internet at all, run
+the free companion program (https://ssdesk.online/companion.html) on the church PC. It also makes an emergency USB copy:
+the whole app in one file that starts on any Windows or Linux PC, together with a backup of your plans and slides.
+
+Signs that something is wrong: the badge shows ⚠ files missing (press it and choose Check &
+repair, with internet), or the projector picture disappears when you point at the Windows taskbar (turn off Windows
+Peek: Win+R, sysdm.cpl → Advanced → Performance Settings → untick Enable Peek).
+
+## More guides
+- Show hymns with music on the projector (https://ssdesk.online/guide-hymns-with-music.html)
+- Set up a stage screen and a phone remote (https://ssdesk.online/guide-stage-screen-and-phone-remote.html)
+
+
+---
+Page: https://ssdesk.online/guide-hymns-with-music.html
+# How to show hymns with music on the projector
+
+Updated 2026-11-20
+
+Sabbath Service Desk shows a hymn one stanza at a time and can play the hymn music from the PC with no
+internet, so a small church without a pianist can still sing. The words follow the music.
+
+## Show a hymn
+- Open the Hymns tab, or type hymn 73 in the Go to box at the top.
+- Find the hymn by number or by words. Choose the hymnbook at the top of the list.
+- Choose which stanzas to sing if you do not sing them all (for example 1, 2 and 4).
+- Press Present to show the words only, or Present & play for words and music.
+- The title comes first, then one stanza per slide. The chorus is repeated after each stanza for you.
+
+## Words and music together
+- With Present & play, the music plays an introduction, then one verse of music per stanza you chose, with the real ending on the last one.
+- The words change two seconds before the music reaches them, so people can read ahead. Change this in Hymns → ⚙ Hymn options → Words change earlier (0–5 seconds).
+- Press → or ← at any time to take over. Tapping a stanza while the hymn plays changes only the words; the music does not restart.
+- Press M to play or pause the music. The tempo can be changed.
+
+## Make it sound right in your hall
+
+The setup asks what the device is (church PC, laptop or phone), how big the hall is and what the music is heard
+through (sound desk, small speakers or a TV), and chooses the sound. Change it later under Hymns → ⚙ Hymn
+options: sound presets (Best, Balanced, Light, Large church with organ, Small room and clear), room echo and an
+equaliser. Play a test lets you hear it before the service.
+
+## Hymns in your language
+
+English and Afrikaans hymnbooks are built in. Hymnbooks in more languages, such as isiXhosa, isiZulu, Sesotho,
+Setswana, Shona, Tshivenda, Swahili, French, Portuguese and Spanish, are added once from Add a hymnbook and then
+work offline. Where a hymn shares its tune with the English hymnal, the music plays for it too. Your church's own
+songs and choruses can be added in the Shared Hymns book of each language.
+
+Tip: on a phone or an old PC, choose the Light sound preset. On a PC that is fast enough, the
+setup's 2-minute load test tells you if it is ready.
+
+## More guides
+- Run a church service with no internet (https://ssdesk.online/guide-offline-church-service.html)
+- Set up a stage screen and a phone remote (https://ssdesk.online/guide-stage-screen-and-phone-remote.html)
+
+
+---
+Page: https://ssdesk.online/guide-stage-screen-and-phone-remote.html
+# How to set up a stage screen and a phone remote
+
+Updated 2026-11-20
+
+A stage screen shows the preacher and the singers what is on the projector, what comes next, the clock
+and a countdown. The congregation never sees it. A phone remote lets someone run the order of service from anywhere in
+the hall.
+
+## The stage screen
+
+Open Tools → Stage. The stage screen shows:
+- Now: the slide on the projector, exactly as the hall sees it, with speaker notes from PowerPoint or PDF slides.
+- Next: the next slide, or the next item in the plan.
+- Clock and timers: the time of day and a speaker countdown that turns green, amber and then red, and counts the overtime.
+- Messages from the desk, such as "5 minutes left", with an optional chime.
+- The order of service, with who leads each part.
+
+Layouts: Full, Words (very large type for singers and the preacher), Slides and Timer.
+There is a mirror option for teleprompter glass.
+
+## Connect a stage screen
+- Another monitor on the PC: Tools → Stage → Open stage screen
+- A TV with Chromecast or Google TV: Cast stage screen
+- A phone, tablet or laptop: Turn on Phones & laptops, then scan the QR code, or open ssdesk.online/stage and type the room code. No app and no account.
+- Church Wi-Fi with no internet: Run the free companion (https://ssdesk.online/companion.html) on the church PC; screens open the address it shows.
+
+Slides go straight from the media desk to the stage screen, encrypted. Someone who only has the room code cannot
+show fake slides.
+
+## Phone remote for the order of service
+- On the PC, open the projector once (press Present).
+- Open Tools → Stage → Phone remote and scan the QR code with the phone.
+- Enter the control PIN shown on the PC.
+- The phone shows the plan with a Show button per part, big Back and Next part buttons, the slide arrows, and Black, Logo and Clear.
+
+The phone and the PC connect directly on the church Wi-Fi; the internet is only used to find each
+other. Wrong PINs are limited, so a guest cannot take over the screen.
+
+## More guides
+- Run a church service with no internet (https://ssdesk.online/guide-offline-church-service.html)
+- Show hymns with music on the projector (https://ssdesk.online/guide-hymns-with-music.html)
+
+
+---
+Page: https://ssdesk.online/afrikaans.html
+# Gratis kerk-aanbiedingsagteware vir Adventiste-mediaspanne
+
+Bygewerk 2026-11-20
+
+Sabbath Service Desk is gratis kerk-aanbiedingsagteware vir Sewendedag-Adventiste-mediaspanne.
+Dit wys die Bybel, gesange met musiek, skyfies, video en aankondigings op die projektor of TV, en gee die preekstoel
+'n verhoogskerm. Jy installeer dit uit jou webblaaier, dit werk sonder internet sodra dit geïnstalleer is, en dit loop
+op 'n ou kerkrekenaar of 'n foon.
+
+## Kort feite
+- Prys: Gratis. Geen advertensies.
+- Vir wie: Sewendedag-Adventiste-mediaspanne: Eredienste, Sabbatskool, Vespers en meer
+- Sonder internet: Ja, sodra dit uit die blaaier geïnstalleer is
+- Toestelle: Windows-, Mac- en Linux-rekenaars; Android-fone en -tablette; iPhone en iPad
+- Bybels: Afrikaans 1933/53, King James, World English Bible ingebou; ander kan bygevoeg word
+- Gesange: Afrikaanse en Engelse gesangboeke met gesangmusiek, ingebou
+- Taal van die program: Die knoppies is in Engels; Bybel, gesange en groete kan in Afrikaans wees
+
+## Wat dit op die skerm sit
+- Die Bybel. Tik Johannes 3:16 of Joh 3:16 en dit is gereed. Twee vertalings langs mekaar.
+- Gesange met musiek. Soek op nommer of woorde. Een vers per skyfie, die koor herhaal vanself, en die gesangmusiek speel sonder internet. Die woorde verander net voor die musiek daar kom.
+- Skyfies. PowerPoint, PDF en prente, op die toestel gestoor.
+- Video en musiek, met speellyste en agtergrondmusiek onder die woorde.
+- Baniere en aankondigings met jou kerk se naam, die datum en die sononder-tyd, plus 'n lus voor die diens met 'n aftelhorlosie tot die diens begin.
+- "Geseënde Sabbat" vanaf Vrydag-sononder, en Sabbat-tye bereken sonder internet.
+
+## Begin in vyf stappe
+- Maak ssdesk.online op die kerkrekenaar oop in Chrome of Edge, met internet.
+- Druk Install en wag vir Saved on this device.
+- Volg die kort opstelling: kerknaam, dorp en die tale van julle dienste (kies Afrikaans).
+- Koppel die projektor as 'n uitgebreide skerm (Windows: Win+P → Extend) en druk Present.
+- Doen Vrydagaand die twee-minuut-toets: skakel die internet af, maak die program weer oop, en wys 'n vers, 'n gesang met musiek en die eerste skyfie.
+
+## Vrae en antwoorde
+
+### Kos dit iets?
+
+Nee. Dit is gratis, sonder advertensies en sonder betaling.
+
+### Werk dit sonder internet?
+
+Ja, sodra dit geïnstalleer is. Die eerste besoek het internet nodig om die program op die toestel te stoor. Daarna loop die hele diens sonder sein. Ekstra Bybels en gesangboeke, webblaaie en opdaterings het internet nodig wanneer jy hulle byvoeg.
+
+### Watter Afrikaanse Bybel en gesange is ingebou?
+
+Die Afrikaanse 1933/53-Bybel en 'n Afrikaanse gesangboek met gesangmusiek is ingebou, saam met Engelse Bybels en gesange. Twee Bybels kan langs mekaar op die skerm wys, byvoorbeeld Afrikaans en Engels.
+
+### Wat het ek nodig?
+
+'n Rekenaar met Chrome of Edge is die beste vir 'n projektor of TV. 'n Ou kerkrekenaar is goed genoeg: 'n laekrag-modus skakel vanself aan op swak toestelle. Fone en tablette kan dit ook gebruik, of as afstandbeheer of verhoogskerm dien.
+
+### Is dit 'n amptelike produk van die Sewendedag-Adventistekerk?
+
+Nee. Dit is 'n onafhanklike, gratis hulpmiddel van Lee McQuire van WiFi vs The Word Ministries in Malmesbury, en word nie deur die Sewendedag-Adventistekerk gemaak of onderskryf nie.
+
+## Wie maak dit
+
+Sabbath Service Desk word gemaak deur Lee McQuire van WiFi vs The Word Ministries, 'n kerkmedia-vrywilliger in
+Malmesbury, sodat die mediaspan nie die preek mis nie. English: read this page in English (https://ssdesk.online/about.html).
